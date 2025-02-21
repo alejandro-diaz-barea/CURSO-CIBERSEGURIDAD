@@ -2,4 +2,4 @@
 # Máquinas Try hack me
 
 - [Blue](blue/)
-- [Ice](Ice/)
+- [Ice](ice/)
