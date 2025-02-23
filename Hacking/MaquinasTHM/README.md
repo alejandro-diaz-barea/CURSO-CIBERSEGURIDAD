@@ -3,3 +3,4 @@
 
 - [Blue](blue/)
 - [Ice](ice/)
+- [Blaster](Blaster/)
