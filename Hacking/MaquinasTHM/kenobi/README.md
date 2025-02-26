@@ -1,6 +1,7 @@
 # Kenobi (thm)
 
 Empezamos con un escaneo básico de los puertos
+
 ![alt text](image.png)
 
 Con este nmap vemos que hay 3 carpetas compartidas de samba
