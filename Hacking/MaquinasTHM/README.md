@@ -7,3 +7,4 @@
 - [Library](Library/)
 - [Anthem](Anthem/)
 - [Kenobi](kenobi/)
+- [Easy peasy](easypeasy/)
