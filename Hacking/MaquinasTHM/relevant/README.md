@@ -94,10 +94,17 @@ Haciendo un more password.txt es la única forma de leerlo, se puede ver que es 
 
 
 
-Se pueden acceder con los dos 
+Se pueden acceder con los dos usuarios
 
 ![alt text](image-11.png)
 
 ![alt text](image-12.png)
 
-Pero están los mismos txt 
+
+Ahora voy a probar a crear un nuevo archivo a ver si se refleja en la web para poder intenetar hacer una reverse shell
+
+![alt text](image-16.png)
+
+![alt text](image-17.png)
+
+
