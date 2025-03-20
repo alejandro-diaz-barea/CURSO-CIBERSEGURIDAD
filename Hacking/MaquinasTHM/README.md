@@ -11,3 +11,4 @@
 - [Relevant](relevant/)
 - [Retro](retro/)
 - [techsupp0rt1](techsupp0rt1/)
+- [Basic pentesting](basicPentesting/)
