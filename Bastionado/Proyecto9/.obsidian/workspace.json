@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "75db1ec6d370b73f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d226b8b1d8ef28a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "977afec186a7951e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Proyecto 9 - Certificados digitales.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Proyecto 9 - Certificados digitales"
+            }
+          },
+          {
+            "id": "ab7d26b6ab4dc874",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "parte2 – Comparación de certificados.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "parte2 – Comparación de certificados"
+            }
+          },
+          {
+            "id": "a7e50ef5b0668c69",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a9a040c3d277d88",
+    "type": "split",
+    "children": [
+      {
+        "id": "eee05b59276c8031",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "260ceddd91a50fc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "bfaeeb8835ed25d5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0757deb55a92a6e6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "bd3e4db26a89c087",
+    "type": "split",
+    "children": [
+      {
+        "id": "13e3062048bc954a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0efb5975fc94eec2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "parte2 – Comparación de certificados.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for parte2 – Comparación de certificados"
+            }
+          },
+          {
+            "id": "d8b275bbc26d440c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "parte2 – Comparación de certificados.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from parte2 – Comparación de certificados"
+            }
+          },
+          {
+            "id": "0766c16aa5f4f410",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "0e303f570f8413c5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "parte2 – Comparación de certificados.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of parte2 – Comparación de certificados"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a7e50ef5b0668c69",
+  "lastOpenFiles": [
+    "parte2.md",
+    "parte3.md",
+    "README.md",
+    "2025-04-05 19-47-52.mkv",
+    "i3.png",
+    "i2.png",
+    "i1.png",
+    "sslreport2.png",
+    "sslreport1.png",
+    "mozilla2.png",
+    "mozilla.png",
+    "parte1.gif",
+    "myweb.png",
+    "parte1.gif.crdownload",
+    "Proyecto9_key.pem",
+    "Sin confirmar 761591.crdownload"
+  ]
+}
